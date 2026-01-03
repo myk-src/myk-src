@@ -67,8 +67,6 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.12%20million%20lines%20of%20code-blue)
@@ -85,42 +83,6 @@ const mykl = {
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-🌆 Daytime                207 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-🌃 Evening                434 commits         ███████████░░░░░░░░░░░░░░   42.80 % 
-🌙 Night                  330 commits         ████████░░░░░░░░░░░░░░░░░   32.54 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Tuesday                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Wednesday                172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Thursday                 179 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Friday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Saturday                 176 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Sunday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -134,7 +96,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 00:22:13 UTC
+ Last Updated on 03/01/2026 00:20:47 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
