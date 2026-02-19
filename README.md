@@ -69,7 +69,7 @@ const mykl = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -137,7 +137,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2026 00:27:55 UTC
+ Last Updated on 19/02/2026 00:28:16 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
