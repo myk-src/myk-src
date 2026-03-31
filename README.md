@@ -124,17 +124,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            █████████░░░░░░░░░░░░░░░░   34.21 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-VHDL                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
 
 
- Last Updated on 30/03/2026 00:32:05 UTC
+ Last Updated on 31/03/2026 00:30:39 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
