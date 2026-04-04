@@ -112,13 +112,17 @@ Sunday                   119 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+C                        2 hrs 3 mins        █████████████████████░░░░   82.67 % 
+Objective-C              19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Lua                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+S                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Neovim                   2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +138,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2026 00:30:56 UTC
+ Last Updated on 04/04/2026 00:28:57 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
