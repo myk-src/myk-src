@@ -67,7 +67,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -112,17 +112,15 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     48 mins             ████████████░░░░░░░░░░░░░   46.83 % 
-TypeScript               32 mins             ████████░░░░░░░░░░░░░░░░░   31.34 % 
-TOML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-C                        7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Bash                     48 mins             █████████████░░░░░░░░░░░░   51.52 % 
+TypeScript               32 mins             █████████░░░░░░░░░░░░░░░░   34.47 % 
+TOML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 
 🔥 Editors: 
-Neovim                   1 hr 44 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 34 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 44 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +136,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2026 00:38:12 UTC
+ Last Updated on 25/04/2026 00:34:00 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
