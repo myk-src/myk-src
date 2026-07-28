@@ -67,7 +67,9 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -124,6 +126,28 @@ VS Code                  6 hrs 23 mins       ███████████�
 Windows                  6 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 mins (4.35%)
+
+✍️ 17 lines written by AI, 1,822 lines written by hand (0.92% AI-written)
+
+🔤 82,683 Input Tokens, 285 Output Tokens
+
+💵 $0.25 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+Github-Copilot           17 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.92% of written lines came from AI
+📝 Concise Prompter — average 193 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 99.43% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -137,7 +161,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 00:38:05 UTC
+ Last Updated on 28/07/2026 00:34:45 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
