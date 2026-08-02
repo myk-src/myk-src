@@ -114,38 +114,36 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Go                       6 hrs 8 mins        ████████████████████████░   96.06 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Go                       47 mins             ████████████████████████░   96.90 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (4.35%)
+⏱ AI Coding Time: 9 mins (18.54%)
 
-✍️ 17 lines written by AI, 1,822 lines written by hand (0.92% AI-written)
+✍️ 17 lines written by AI, 342 lines written by hand (4.74% AI-written)
 
 🔤 82,683 Input Tokens, 285 Output Tokens
 
 💵 $0.25 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
-Github-Copilot           17 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.92% of written lines came from AI
-📝 Concise Prompter — average 193 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.43% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 4.74% of written lines came from AI
+📝 Concise Prompter — average 29 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 96.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +159,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 00:36:26 UTC
+ Last Updated on 02/08/2026 00:36:58 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
