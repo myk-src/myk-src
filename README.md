@@ -114,36 +114,19 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Go                       47 mins             ████████████████████████░   96.90 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (18.54%)
-
-✍️ 17 lines written by AI, 342 lines written by hand (4.74% AI-written)
-
-🔤 82,683 Input Tokens, 285 Output Tokens
-
-💵 $0.25 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.74% of written lines came from AI
-📝 Concise Prompter — average 29 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 96.94% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -159,7 +142,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 00:36:58 UTC
+ Last Updated on 03/08/2026 00:36:35 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
