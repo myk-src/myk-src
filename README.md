@@ -67,19 +67,19 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.70%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.71%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 831.5 kB Used in GitHub's Storage 
+> 📦 831.2 kB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2026
+> 🏆 136 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,21 +90,21 @@ const mykl = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-🌆 Daytime                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-🌃 Evening                601 commits         ███████████░░░░░░░░░░░░░░   43.84 % 
-🌙 Night                  469 commits         █████████░░░░░░░░░░░░░░░░   34.21 % 
+🌞 Morning                56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+🌆 Daytime                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+🌃 Evening                611 commits         ███████████░░░░░░░░░░░░░░   43.96 % 
+🌙 Night                  478 commits         █████████░░░░░░░░░░░░░░░░   34.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Tuesday                  118 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Sunday                   218 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Monday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Tuesday                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Saturday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Sunday                   218 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 ```
 
 
@@ -114,27 +114,27 @@ Sunday                   218 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue                      6 hrs 28 mins       █████████████████░░░░░░░░   66.19 % 
-TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Vue                      8 hrs 20 mins       ████████████████░░░░░░░░░   64.07 % 
+TypeScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 33 mins       ████████████████████████░   97.69 % 
-Neovim                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+VS Code                  12 hrs 48 mins      █████████████████████████   98.26 % 
+Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  9 hrs 33 mins       ████████████████████████░   97.69 % 
-Linux                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Windows                  12 hrs 48 mins      █████████████████████████   98.26 % 
+Linux                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (3.77%)
+⏱ AI Coding Time: 22 mins (2.83%)
 
-✍️ 282 lines written by AI, 3,116 lines written by hand (8.3% AI-written)
+✍️ 282 lines written by AI, 3,984 lines written by hand (6.61% AI-written)
 
 🔤 4,234 Input Tokens, 948 Output Tokens
 
@@ -145,10 +145,10 @@ Linux                    13 mins             █░░░░░░░░░░�
 Github-Copilot           282 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.3% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 6.61% of written lines came from AI
 📝 Concise Prompter — average 91 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 96.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +164,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 00:34:35 UTC
+ Last Updated on 02/09/2026 00:29:59 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
