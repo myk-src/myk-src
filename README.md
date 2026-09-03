@@ -67,7 +67,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
 
@@ -114,27 +114,27 @@ Sunday                   218 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue                      8 hrs 20 mins       ████████████████░░░░░░░░░   64.07 % 
-TypeScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-CSS                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Vue                      8 hrs 43 mins       ████████████████░░░░░░░░░   64.59 % 
+TypeScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 48 mins      █████████████████████████   98.26 % 
-Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+VS Code                  13 hrs 16 mins      █████████████████████████   98.33 % 
+Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Windows                  12 hrs 48 mins      █████████████████████████   98.26 % 
-Linux                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Windows                  13 hrs 16 mins      █████████████████████████   98.33 % 
+Linux                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (2.83%)
+⏱ AI Coding Time: 22 mins (2.73%)
 
-✍️ 282 lines written by AI, 3,984 lines written by hand (6.61% AI-written)
+✍️ 282 lines written by AI, 4,124 lines written by hand (6.4% AI-written)
 
 🔤 4,234 Input Tokens, 948 Output Tokens
 
@@ -145,10 +145,10 @@ Linux                    13 mins             ░░░░░░░░░░░�
 Github-Copilot           282 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.61% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 6.4% of written lines came from AI
 📝 Concise Prompter — average 91 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 96.58% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +164,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 00:29:59 UTC
+ Last Updated on 03/09/2026 00:30:38 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
