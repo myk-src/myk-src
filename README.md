@@ -67,7 +67,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
 
@@ -114,25 +114,23 @@ Sunday                   218 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue                      8 hrs 43 mins       ████████████████░░░░░░░░░   64.59 % 
-TypeScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Vue                      8 hrs 43 mins       ████████████████░░░░░░░░░   65.69 % 
+TypeScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 16 mins      █████████████████████████   98.33 % 
-Neovim                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+VS Code                  13 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 16 mins      █████████████████████████   98.33 % 
-Linux                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Windows                  13 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (2.73%)
+⏱ AI Coding Time: 22 mins (2.78%)
 
 ✍️ 282 lines written by AI, 4,124 lines written by hand (6.4% AI-written)
 
@@ -164,7 +162,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 00:30:38 UTC
+ Last Updated on 04/09/2026 00:27:18 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
