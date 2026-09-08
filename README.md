@@ -77,9 +77,9 @@ const mykl = {
 
 **🐱 My GitHub Data** 
 
-> 📦 831.2 kB Used in GitHub's Storage 
+> 📦 831.5 kB Used in GitHub's Storage 
  > 
-> 🏆 136 Contributions in the Year 2026
+> 🏆 145 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,21 +90,21 @@ const mykl = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-🌆 Daytime                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-🌃 Evening                611 commits         ███████████░░░░░░░░░░░░░░   43.96 % 
-🌙 Night                  478 commits         █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌞 Morning                56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+🌆 Daytime                247 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+🌃 Evening                615 commits         ███████████░░░░░░░░░░░░░░   43.96 % 
+🌙 Night                  481 commits         █████████░░░░░░░░░░░░░░░░   34.38 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   125 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Tuesday                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Saturday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Sunday                   218 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Monday                   132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Tuesday                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Saturday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Sunday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 ```
 
 
@@ -114,39 +114,23 @@ Sunday                   218 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue                      7 hrs 29 mins       ████████████████░░░░░░░░░   63.57 % 
-TypeScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-CSS                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Vue                      3 hrs 35 mins       █████████████████░░░░░░░░   69.97 % 
+TypeScript               52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (2.49%)
-
-✍️ 0 lines written by AI, 2,487 lines written by hand (0.0% AI-written)
-
-🔤 4,234 Input Tokens, 948 Output Tokens
-
-💵 $0.03 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 25 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +146,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 00:32:26 UTC
+ Last Updated on 08/09/2026 00:29:36 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
