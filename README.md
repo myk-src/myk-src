@@ -67,7 +67,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
 
@@ -77,9 +77,9 @@ const mykl = {
 
 **🐱 My GitHub Data** 
 
-> 📦 832.2 kB Used in GitHub's Storage 
+> 📦 832.5 kB Used in GitHub's Storage 
  > 
-> 🏆 164 Contributions in the Year 2026
+> 🏆 171 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,21 +90,21 @@ const mykl = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-🌆 Daytime                247 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-🌃 Evening                615 commits         ███████████░░░░░░░░░░░░░░   43.37 % 
-🌙 Night                  500 commits         █████████░░░░░░░░░░░░░░░░   35.26 % 
+🌞 Morning                56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+🌆 Daytime                247 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+🌃 Evening                622 commits         ███████████░░░░░░░░░░░░░░   43.65 % 
+🌙 Night                  500 commits         █████████░░░░░░░░░░░░░░░░   35.09 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Tuesday                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Saturday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Sunday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Monday                   132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Tuesday                  153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Thursday                 244 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Friday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Saturday                 239 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Sunday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 ```
 
 
@@ -114,17 +114,17 @@ Sunday                   220 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue                      3 hrs 14 mins       ██████████████████████░░░   89.38 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Vue                      7 hrs 41 mins       ███████████████████████░░   92.43 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +146,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 00:29:39 UTC
+ Last Updated on 10/09/2026 00:27:57 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
