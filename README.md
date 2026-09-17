@@ -114,17 +114,13 @@ Sunday                   220 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue                      4 hrs 49 mins       ███████████████████████░░   93.30 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +142,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 00:28:37 UTC
+ Last Updated on 17/09/2026 00:28:33 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
